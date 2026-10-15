@@ -1,0 +1,107 @@
+[
+  {
+    "name": "logo_thump",
+    "prompt": "Deep soft felt mallet thump on a heavy wooden tabletop, warm round low end, very short, dry, no reverb",
+    "duration": 0.8,
+    "bytes": 13835,
+    "r2": "https://11labsfiles.experiment.md/executor-tribute/logo_thump-20261015.mp3"
+  },
+  {
+    "name": "socket_lock_a",
+    "prompt": "Precise small metal latch snapping into a socket, satisfying mechanical click-lock, close mic, dry, very short",
+    "duration": 0.5,
+    "bytes": 8820,
+    "r2": "https://11labsfiles.experiment.md/executor-tribute/socket_lock_a-20261015.mp3"
+  },
+  {
+    "name": "socket_lock_b",
+    "prompt": "Tight machined metal connector clicking firmly into place, crisp click with tiny low thunk, close mic, dry",
+    "duration": 0.5,
+    "bytes": 8820,
+    "r2": "https://11labsfiles.experiment.md/executor-tribute/socket_lock_b-20261015.mp3"
+  },
+  {
+    "name": "whoosh_spoke",
+    "prompt": "Fast clean airy whoosh pass-by, short and light, modern interface transition, no tonal hum",
+    "duration": 0.6,
+    "bytes": 10492,
+    "r2": "https://11labsfiles.experiment.md/executor-tribute/whoosh_spoke-20261015.mp3"
+  },
+  {
+    "name": "radar_ping",
+    "prompt": "Single clean digital sonar ping with a short shimmering tail, modern and minimal",
+    "duration": 1,
+    "bytes": 17179,
+    "r2": "https://11labsfiles.experiment.md/executor-tribute/radar_ping-20261015.mp3"
+  },
+  {
+    "name": "clock_tick",
+    "prompt": "Two crisp mechanical clock escapement ticks, close mic, dry, precise",
+    "duration": 0.6,
+    "bytes": 10492,
+    "r2": "https://11labsfiles.experiment.md/executor-tribute/clock_tick-20261015.mp3"
+  },
+  {
+    "name": "glass_pop",
+    "prompt": "Glassy interface pop, small bubble pop with a bright crystalline sparkle tail, clean",
+    "duration": 0.5,
+    "bytes": 8820,
+    "r2": "https://11labsfiles.experiment.md/executor-tribute/glass_pop-20261015.mp3"
+  },
+  {
+    "name": "drawer_thud",
+    "prompt": "Small wooden drawer sliding shut with a soft muted thud, short, dry",
+    "duration": 0.6,
+    "bytes": 10492,
+    "r2": "https://11labsfiles.experiment.md/executor-tribute/drawer_thud-20261015.mp3"
+  },
+  {
+    "name": "gear_ratchet",
+    "prompt": "Quick small metal gear ratchet, four tight mechanical clicks, dry close mic",
+    "duration": 0.6,
+    "bytes": 10492,
+    "r2": "https://11labsfiles.experiment.md/executor-tribute/gear_ratchet-20261015.mp3"
+  },
+  {
+    "name": "paper_flick",
+    "prompt": "Single crisp paper page flick, quick and bright, dry",
+    "duration": 0.5,
+    "bytes": 8820,
+    "r2": "https://11labsfiles.experiment.md/executor-tribute/paper_flick-20261015.mp3"
+  },
+  {
+    "name": "key_clicks",
+    "prompt": "Soft quiet mechanical keyboard typing, thocky muted keys, steady fast typing rhythm, close mic, dry room",
+    "duration": 2.5,
+    "bytes": 40585,
+    "r2": "https://11labsfiles.experiment.md/executor-tribute/key_clicks-20261015.mp3"
+  },
+  {
+    "name": "key_single",
+    "prompt": "One single soft mechanical keyboard key press, thocky, dry, close mic",
+    "duration": 0.5,
+    "bytes": 8820,
+    "r2": "https://11labsfiles.experiment.md/executor-tribute/key_single-20261015.mp3"
+  },
+  {
+    "name": "tape_stop",
+    "prompt": "Sudden hard tape stop, everything slows and cuts out abruptly, short",
+    "duration": 0.7,
+    "bytes": 12163,
+    "r2": "https://11labsfiles.experiment.md/executor-tribute/tape_stop-20261015.mp3"
+  },
+  {
+    "name": "riser",
+    "prompt": "Rising tension riser, airy noise swell and accelerating whooshes building in speed and pitch, modern, ends abruptly at the peak",
+    "duration": 3,
+    "bytes": 48944,
+    "r2": "https://11labsfiles.experiment.md/executor-tribute/riser-20261015.mp3"
+  },
+  {
+    "name": "data_rain",
+    "prompt": "Dense granular digital data stream, thousands of tiny soft clicks and ticks flowing fast, airy, modern",
+    "duration": 2.5,
+    "bytes": 40585,
+    "r2": "https://11labsfiles.experiment.md/executor-tribute/data_rain-20261015.mp3"
+  }
+]
